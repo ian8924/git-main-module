@@ -1,0 +1,3 @@
+[submodule "modules/git-sub"]
+	path = modules/git-sub
+	url = https://github.com/ian8924/git-sub-module.git
